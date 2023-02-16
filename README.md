@@ -1,2 +1,5 @@
-# vitrine
-Projeto em PHP feito na faculdade 
+# Projeto inicial da disciplina
+
+## Milena Carolini Rodrigues 
+
+Gosto de Front-End 
